@@ -43,14 +43,16 @@ Este proyecto surge para cerrar esa brecha y para no quedarnos calladas.
 •	Mundo: 27%
 •	América Latina y el Caribe: 25%
 •	México: 31.4%
- <img width="358" height="257" alt="image" src="https://github.com/user-attachments/assets/a6d80ff7-834a-4b5f-b403-64cec0467c3e" />
 
-2. Perfil sociodemográfico
+<img width="358" height="257" alt="image" src="https://github.com/user-attachments/assets/a6d80ff7-834a-4b5f-b403-64cec0467c3e" />
+
+3. Perfil sociodemográfico
 •	45% adultas jóvenes (26–45 años)
 •	22% jóvenes (15–25 años)
 •	42% dedicadas al hogar
 •	18.5% docentes/profesionales
 •	48.2% con educación básica
+
 <img width="975" height="634" alt="image" src="https://github.com/user-attachments/assets/c1885c89-564d-45f4-809a-febe524bf2b8" />
  
 4. Anatomía de la agresión
@@ -63,21 +65,23 @@ La mayoría de las víctimas vivió violencia silenciosa antes de la agresión f
 •	94.2% vivió violencia psicológica previa
 •	68.5% vivió violencia financiera previa
 •	98.6% sin antecedentes en salud
- <img width="560" height="448" alt="image" src="https://github.com/user-attachments/assets/129402b3-726f-46d8-8e51-b6420ee3a531" />
+
+<img width="560" height="448" alt="image" src="https://github.com/user-attachments/assets/129402b3-726f-46d8-8e51-b6420ee3a531" />
 
 
-5. Impacto en los hogares
+6. Impacto en los hogares
 •	62% eran proveedoras económicas
 •	2.4 dependientes por caso
 El feminicidio genera un shock económico inmediato
 
-6. Geografía de la incidencia
+7. Geografía de la incidencia
 El 46.25% de los casos se concentra en ocho estados:
 Estado de México, Guanajuato, Jalisco, Chihuahua, Baja California, Michoacán, Morelos y Veracruz.
+
 <img width="427" height="301" alt="image" src="https://github.com/user-attachments/assets/a08d11d7-f36a-433e-bc18-ce19497d25ba" />
 
 
-7. Indicadores avanzados:
+9. Indicadores avanzados:
    
 Índice de Riesgo Invisible (IRI)
 •	Media: 0.143
@@ -92,6 +96,7 @@ Costo Económico del Feminicidio (CEF)
 •	Máximo: 960,000 pesos
 Índice de Densidad Letal (IDL)
 Estados críticos: Edomex, Guanajuato, Jalisco, Chihuahua, CDMX.
+
 <img width="591" height="458" alt="image" src="https://github.com/user-attachments/assets/62af59f5-4140-4ecf-b479-04e922f28e23" />
 
 
@@ -100,6 +105,7 @@ La víctima suele pasar por varias instituciones sin que exista un hilo conducto
 Cada institución genera su propio expediente.
 La información se pierde.
 La violencia escala.
+
 <img width="365" height="292" alt="image" src="https://github.com/user-attachments/assets/014b25e9-a83b-4ac7-b0c6-4db08c05ab99" />
 
 Para romper ese ciclo creamos:
@@ -141,7 +147,6 @@ El instrumento está diseñado para:
 •	centros comunitarios,
 •	instituciones públicas,
 •	organizaciones civiles.
-
 Cada institución registra datos, el modelo calcula el riesgo y se genera un resultado objetivo y comparable.
 
 # Principios rectores del modelo
@@ -151,7 +156,8 @@ Cada institución registra datos, el modelo calcula el riesgo y se genera un res
 •	un reporte directo de la víctima,
 •	un antecedente institucional verificable,
 •	o una condición documentada.
-Reglas claras para la incertidumbre
+
+# Reglas claras para la incertidumbre
 El modelo distingue entre:
 •	Información accesible directamente por la institución
 → Solo admite Sí / No
