@@ -1,4 +1,5 @@
 <img width="7446" height="794" alt="perfiles_la violencia hacia la mujer (197 x 21 cm)" src="https://github.com/user-attachments/assets/10f05fa4-0443-41aa-90fa-d25d3b481777" />
+
 # La-violencia-hacia-la-mujer-en-datos
 Plataforma analítica e interactiva que integra datos estadísticos (2021-2024) para visibilizar patrones de violencia feminicida en México, detectar riesgos tempranos y cerrar la brecha de opacidad institucional mediante el uso de estándares CIE-10 y visualización avanzada.
 
@@ -225,6 +226,7 @@ Estas instituciones pueden recibir casos canalizados mediante el CUC, fortalecie
 •	API del Banco Mundial
 
 <img width="6912" height="3456" alt="perfiles_la violencia hacia la mujer" src="https://github.com/user-attachments/assets/c509e215-b69a-412e-959e-a6e9940a1b69" />
+
 # Equipo
 •	Saraluz Elechiguerra Cázares
 •	Lucero Almanza Escalante
